@@ -1,6 +1,6 @@
 
 var assert = require('assert')
-  , ref = require('ref')
+  , ref = require('ref-napi')
   , Struct = require('ref-struct-di')(ref)
   , Union = require('../')(ref)
   , bindings = require('bindings')({ module_root: __dirname, bindings: 'native_tests' })
