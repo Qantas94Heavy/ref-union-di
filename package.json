@@ -1,5 +1,5 @@
 {
-  "name": "ref-union-di",
+  "name": "@qantas94heavy/ref-union-di",
   "description": "Create ABI-compliant \"union\" instances on top of Buffers",
   "keywords": [
     "union",
@@ -10,13 +10,14 @@
     "ffi"
   ],
   "version": "1.0.1",
-  "author": "Anna Henningsen <anna@addaleax.net>",
+  "author": "Karl Cheng <qantas94heavy@gmail.com>",
   "contributors": [
+    "Anna Henningsen <anna@addaleax.net>",
     "Nathan Rajlich <nathan@tootallnate.net>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-ffi-napi/ref-union-di.git"
+    "url": "git://github.com/Qantas94Heavy/ref-union-di.git"
   },
   "main": "./lib/union.js",
   "license": "MIT",
